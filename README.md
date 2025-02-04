@@ -51,3 +51,5 @@ A função add_repeating_timer_ms() alterna os LEDs a cada 3 segundos, enquanto 
 🔍 Testes e Validação
 
 Utilize o BitDogLab para simular o comportamento do semáforo com o LED RGB conectado aos pinos GPIOs 11, 12 e 13, validando a funcionalidade e temporização do sistema.
+Além disso, segue a atividade também no wokwi online:
+https://wokwi.com/projects/421969053165863937
